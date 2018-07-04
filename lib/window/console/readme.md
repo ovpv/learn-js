@@ -1,4 +1,4 @@
-#Console Methods
+# Console Methods
 
 ## [assert()](https://github.com/ovpv/learn-js/blob/53e68498f35a5d9bf355ff39157f0328dd0f6de1/lib/window/console/index.js#L22)
 Writes an error to the console when the evaluated expression is false.
