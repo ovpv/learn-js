@@ -2,7 +2,7 @@
   "name": "learn-js",
   "version": "1.0.0",
   "description": "repo to keep track of whatever js knowledge i have attained.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "start": "webpack --watch",
     "build": "webpack",
